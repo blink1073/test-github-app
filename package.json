@@ -1,0 +1,23 @@
+{
+  "name": "test-github-app",
+  "version": "1.0.0",
+  "description": "Used for testing a GitHub App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blink1073/test-github-app.git"
+  },
+  "type": "module",
+  "author": "Steven Silvester",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/blink1073/test-github-app/issues"
+  },
+  "homepage": "https://github.com/blink1073/test-github-app#readme",
+  "dependencies": {
+    "octokit": "^3.1.0"
+  }
+}
